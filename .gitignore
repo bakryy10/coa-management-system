@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.pyc
+.env
+*.log
+*.backup
+*.dump
+*.sql
+config/*.conf
